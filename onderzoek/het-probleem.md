@@ -2,7 +2,7 @@
 
 ## Voorwoord
 
-Voertuigcriminaliteit (mobility crime) redt het niet in de concurrentie met de grote veiligheidsthema's als ondermijning, terreur en _high impact_ crime. High Impact Crimes (HIC) is een verzamelnaam voor delicten als woninginbraak, overvallen, straatroof en geweldsmisdrijven. Vreemd als je bedenkt dat juist vervoer een voornaam onderdeel is van de criminele (bedrijfs) processen van deze thema's. Ervaring van het Team Externe Dynamische Samenwerking (TEDS) van de politie Amsterdam laat zien, dat door slim gebruik te maken van de informatiepositie op voertuigcriminaliteit zware criminaliteit een stuk effectiever en efficiénter kan worden opgespoord én voorkomen.
+Voertuigcriminaliteit (mobility crime) redt het niet in de concurrentie met de grote veiligheidsthema's als ondermijning, terreur en _high impact_ crime. Vreemd als je bedenkt dat juist vervoer een voornaam onderdeel is van de criminele (bedrijfs) processen van deze thema's. Ervaring van het Team Externe Dynamische Samenwerking (TEDS) van de politie Amsterdam laat zien, dat door slim gebruik te maken van de informatiepositie op voertuigcriminaliteit zware criminaliteit een stuk effectiever en efficiénter kan worden opgespoord én voorkomen.
 
 In plaats van te moeten concurreren met de grote thema's, zou het onderwerp voertuigcriminaliteit als 'cadeau' moeten worden omarmd in de aanpak van zwaardere vormen van criminaliteit. Een cadeau dat zeker in relatie tot 'het brede offensief tegen georganiseerde en ondermijnende criminaliteit' niet onuitgepakt mag blijven. De toepasbaarheid in deze aanpak is op meerdere fronten groot. Denk aan de versteviging van het stelsel van Bewaken en Beveiligen, aan het verstoren van criminele bedrijfsprocessen en het afpakken van vermogen.
 

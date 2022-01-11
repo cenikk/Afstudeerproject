@@ -21,9 +21,9 @@
   * [Interview 03](onderzoek/gebruikersonderzoek/interview-03.md)
   * [Interview 04](onderzoek/gebruikersonderzoek/interview-04.md)
 * [Feedback](onderzoek/feedback.md)
-  * [Feedback design brief](onderzoek/feedback/feedback-design-brief.md)
-  * [Feedback frenzy](onderzoek/feedback/feedback-frenzy.md)
-  * [Feedback groenlicht](onderzoek/feedback/feedback-groenlicht.md)
+  * [Feedback Design Brief](onderzoek/feedback/feedback-design-brief.md)
+  * [Feedback Frenzy](onderzoek/feedback/feedback-frenzy.md)
+  * [Feedback Groenlicht](onderzoek/feedback/feedback-groenlicht.md)
 
 ## Idee generatie
 
