@@ -1,6 +1,6 @@
 # Kick-off
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 
 

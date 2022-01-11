@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Productbiografie](README.md)
+
 ## Intro
 
-* [Inleiding](README.md)
+* [Inleiding](<README (1).md>)
 * [Over iCOV](intro/over-icov.md)
 * [Begrippenlijst](intro/begrippenlijst.md)
 
@@ -56,3 +58,9 @@
 * [Planning](overige/planning.md)
 * [Opleveringen](overige/opleveringen/README.md)
   * [Design Brief](overige/opleveringen/design-brief.md)
+  * [Feedback Frenzy](overige/opleveringen/feedback-frenzy.md)
+  * [Design Rationale](overige/opleveringen/design-rationale.md)
+  * [Groenlicht presentatie](overige/opleveringen/groenlicht-presentatie.md)
+  * [Zelfreflectie](overige/opleveringen/zelfreflectie.md)
+  * [Eindpresentatie](overige/opleveringen/eindpresentatie.md)
+* [Bibliografie](overige/bibliografie.md)
