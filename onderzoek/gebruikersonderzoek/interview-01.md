@@ -27,7 +27,7 @@ A: In een artikel die ik (samen met 2 collega's) schreef, genaamd 'Kenteken aan 
 
 _Hieronder het stukje tekst van zijn publicatie._
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 Q: Zelf kwamen wij op het idee om een app te maken voor de Politie die beschikbaar is voor op de mobiel, zijn er functies vanuit uw kant dat er minimaal in moeten?
 

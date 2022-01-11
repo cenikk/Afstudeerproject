@@ -45,3 +45,14 @@
 * [Positieve impact](afronding/positieve-impact.md)
 * [Toekomstvisie](afronding/toekomstvisie.md)
 * [Eindwoord](afronding/eindwoord.md)
+
+## Overige
+
+* [Notes](overige/notes/README.md)
+  * [Kick-off](overige/notes/kick-off.md)
+  * [Workshop 1](overige/notes/workshop-1.md)
+  * [Workshop 2](overige/notes/workshop-2.md)
+  * [Workshop 3](overige/notes/workshop-3.md)
+* [Planning](overige/planning.md)
+* [Opleveringen](overige/opleveringen/README.md)
+  * [Design Brief](overige/opleveringen/design-brief.md)
