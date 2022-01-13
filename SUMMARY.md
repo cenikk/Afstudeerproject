@@ -13,8 +13,11 @@
 * [Het probleem](onderzoek/het-probleem.md)
 * [Design Challenge](onderzoek/design-challenge.md)
 * [Desk research](onderzoek/desk-research.md)
-* [Stakeholders](onderzoek/stakeholders.md)
+* [Stakeholders](onderzoek/stakeholders/README.md)
+  * [Stakeholdermap](onderzoek/stakeholders/stakeholdermap.md)
+  * [Belangrijkste stakeholders](onderzoek/stakeholders/belangrijkste-stakeholders.md)
 * [Gebruikersonderzoek](onderzoek/gebruikersonderzoek.md)
+  * [Persona](onderzoek/gebruikersonderzoek/persona.md)
   * [Interviewplan](onderzoek/gebruikersonderzoek/interviewplan.md)
   * [Interview 01](onderzoek/gebruikersonderzoek/interview-01.md)
   * [Interview 02](onderzoek/gebruikersonderzoek/interview-02.md)
@@ -28,7 +31,11 @@
 ## Idee generatie
 
 * [Flowchart](idee-generatie/flowchart.md)
-* [Concepting](idee-generatie/concepting.md)
+* [Concepting](idee-generatie/concepting/README.md)
+  * [Programma van Eisen](idee-generatie/concepting/programma-van-eisen.md)
+  * [MoSCoW](idee-generatie/concepting/moscow.md)
+  * [Scenario's](idee-generatie/concepting/scenarios.md)
+  * [Ideeën generatie](idee-generatie/concepting/ideeen-generatie.md)
 * [Lo-Fi](idee-generatie/lo-fi.md)
 * [Hi-Fi](idee-generatie/hi-fi.md)
 
