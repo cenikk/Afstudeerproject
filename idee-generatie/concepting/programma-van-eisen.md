@@ -17,24 +17,36 @@
 * Het product moet een connectie leggen met de iCOV database waar gegevens vast worden gelegd
 * Het product moet voldoen aan privacyregels van de staat
 * Het product moet meldingen die worden gemaakt over kunnen handigen naar ons systeem
-* Het product moet onderweg gebruikt kunnen worden
 
 ## Context <a href="#context" id="context"></a>
 
-*
+* Het product moet onderweg gebruikt kunnen worden
+* Het product moet tekst kunnen herkennen wanneer het op hoge snelheid is
+* Het product moet snel en makkelijk gebruikt kunnen worden
 
 ## Stakeholders <a href="#stakeholders" id="stakeholders"></a>
 
-De oplossing moet neurochirurgen ondersteunen met het maken van hun behandelbeslissingen;De oplossing moet een overzichtelijke/logische weergave tonen van het effect van de ingevulde (vooral klinische) filters op de geüploade MRI scan en de berekende variabelen (radiologisch) zoals survival time;De oplossing moet, met een onboarding, intuïtief te gebruiken zijn;De oplossing moet het werk uiteindelijk gemakkelijker/sneller maken door filters op te kunnen slaan en slim te kunnen zoeken om zo in de toekomst tijdswinst te behalen;De oplossing moet het mogelijk maken om meerdere scans te kunnen uploaden om zo te kunnen vergelijken hoe de behandeling is gegaan op basis van de voorspelling van de tool;De oplossing moet betrouwbaar zijn.
+* Het product moet (belangrijke) gegevens van bestuurders kunnen weergeven
+* Het product moet gebruikt kunnen worden door alle collega's en connecties leggen met hun data
+* Het product moet mijn scan-data op kunnen slaan voor later
+* Het product moet de mogelijkheid bieden om meldingen te maken
+* Het product moet betrouwbaar zijn
+* Het product moet gebruikersvriendelijk zijn
 
 ## Techniek <a href="#techniek" id="techniek"></a>
 
-De oplossing moet real time geüpdatet kunnen worden als de gebruiker de filters aan het invullen is;De oplossing moet om de minuut een autosave uitvoeren waarbij de coördinaten opgeslagen worden, de ingevulde filters en daarmee ook de visualisaties, zodat de gebruiker verder kan waar hij/zij gebleven is.
+* Het product moet zowel online als offline gebruikt kunnen worden
+* Het product moet een connectie met de database kunnen maken
 
 ## Uiterlijk <a href="#uiterlijk" id="uiterlijk"></a>
 
-De oplossing moet lijken op de, al bestaande oplossing, omdat gebruikers hier al mee werken en hier goed mee uit de voeten kunnen;De oplossing moet de nadruk leggen op de scans en visualisaties zonder te veel af te leiden.
+* Het product moet de huisstijl van iCOV krijgen
+* Het product moet nadruk leggen op scannen en meldingen maken
+* Het product moet een professionele uitstraling hebben
 
 ## Functionele eisen <a href="#functionele-eisen" id="functionele-eisen"></a>
 
-De oplossing moet een mogelijkheid bieden om een scan te uploaden;De oplossing moet ervoor zorgen dat er een dossier aangemaakt kan worden met meerdere scans van één patiënt;De oplossing moet ervoor zorgen dat de (anonieme) data die in de MRI-scans zit gevisualiseerd wordt;De oplossing moet een berekening op verschillende radiologische variabelen uit kunnen voeren om zo voorspellingen te doen voor een bepaalde patiënt.
+* Het product moet de optie hebben om tekst te herkennen
+* Het product moet voorzien zijn van een camera
+* Het product moet meldingen kunnen maken&#x20;
+* Het product moet rapportages kunnen weergeven

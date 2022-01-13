@@ -44,6 +44,7 @@
 * [Sitemap](het-product/sitemap.md)
 * [Stijlgids](het-product/stijlgids.md)
 * [Job stories](het-product/job-stories.md)
+* [Huidige situatie](het-product/huidige-situatie.md)
 * [App features](het-product/app-features.md)
 * [Prototype](het-product/prototype.md)
 * [Microinteracties](het-product/microinteracties.md)
