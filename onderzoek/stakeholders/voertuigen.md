@@ -14,7 +14,7 @@ De politieauto is de basis politievoertuig. Het wordt voornamelijk in steden en 
 
 ![](https://www.politie.nl/binaries/w800h450/content/gallery/politie/onderwerpen/p/politievoertuigen/politieauto-mercedes.jpg)
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 ## Motorfiets
 

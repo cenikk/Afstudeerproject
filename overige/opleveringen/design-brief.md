@@ -83,7 +83,7 @@ Vanuit de bovenstaande flowchart heb ik al een paar eerste schetsen gemaakt. Dit
 
 
 
-![Afbeelding 2. First sketches SCENR](<../../.gitbook/assets/image (3) (1).png>)
+![Afbeelding 2. First sketches SCENR](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 ## Valideren van het niveau
 

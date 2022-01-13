@@ -2,7 +2,7 @@
 
 ## Agent op voet
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 Voor een agent op voet is makkelijk om een kentekenplaat te scannen en hiervan data op te vragen. Hij / zij kan simpelweg zijn mobiel erbij pakken, een kenteken scannen en deze doorvoeren naar de SCENR app. Dat gaat ongeveer zo in zijn werking:
 
@@ -16,4 +16,4 @@ Voor een agent op de motor is het scannen van een voertuig al een stuk lastiger.
 
 ## Agent in auto
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (8).png>)

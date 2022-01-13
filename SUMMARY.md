@@ -45,6 +45,7 @@
 * [Stijlgids](het-product/stijlgids.md)
 * [Job stories](het-product/job-stories.md)
 * [Huidige situatie](het-product/huidige-situatie.md)
+* [Werking van de App](het-product/werking-van-de-app.md)
 * [App features](het-product/app-features.md)
 * [Prototype](het-product/prototype.md)
 * [Microinteracties](het-product/microinteracties.md)
