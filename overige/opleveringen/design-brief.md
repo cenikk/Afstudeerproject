@@ -89,7 +89,7 @@ Vanuit de bovenstaande flowchart heb ik al een paar eerste schetsen gemaakt. Dit
 
 Ik denk dat mijn project valt onder 'Excelleren', omdat ik grotendeels zelf de verantwoording draag voor het initiëren, plannen, uitvoeren en waar nodig bij stuur om de te nemen stappen. Ook reflecteer ik continue op de kwaliteit van mijn werk, de gemaakte keuzes en opgeleverde producten/documenten én de plaats van handelen en product als ontwerper/ontwikkelaar binnen het CMD-beroepenveld.
 
-![Afbeelding 3. CMD-matrix](<../../.gitbook/assets/image (4).png>)
+![Afbeelding 3. CMD-matrix](<../../.gitbook/assets/image (4) (1).png>)
 
 ## Mogelijke impact product
 

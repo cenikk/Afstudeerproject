@@ -33,4 +33,3 @@ Alle beslissingen die ik maak richting mijn eindoplossing moet ik kunnen onderbo
 | Interview 01 | George Rasker    | 13-09-2021 | [interview-01.md](interview-01.md "mention") |
 | Interview 02 | Lennert van Waal | 16-09-2021 | [interview-02.md](interview-02.md "mention") |
 | Interview 03 | Tom Dorhout      | 21-09-2021 | [interview-03.md](interview-03.md "mention") |
-| Interview 04 | Menno Prins      | 23-09-2021 | [interview-04.md](interview-04.md "mention") |

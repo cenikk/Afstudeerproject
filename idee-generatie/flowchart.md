@@ -18,5 +18,5 @@ Een flowchart is een schematische voorstelling van een proces, waarin de procesl
 
 ## Bronnen
 
-* Leaninfo. (2020, 5 oktober). Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | [LeanInfo.nl](http://leaninfo.nl).[https://www.leaninfo.nl/stroomdiagram/](https://www.leaninfo.nl/stroomdiagram/)
-* Lucidchart. (z.d.). Wat is een stroomdiagram? Geraadpleegd op 25 september 2021, van[https://www.lucidchart.com/pages/nl/wat-is-een-stroomdiagram](https://www.lucidchart.com/pages/nl/wat-is-een-stroomdiagram)
+* Leaninfo. (2020, 5 oktober). Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | [LeanInfo.nl](http://leaninfo.nl). [https://www.leaninfo.nl/stroomdiagram/](https://www.leaninfo.nl/stroomdiagram/)
+* Lucidchart. (z.d.). Wat is een stroomdiagram? Geraadpleegd op 25 september 2021, van [https://www.lucidchart.com/pages/nl/wat-is-een-stroomdiagram](https://www.lucidchart.com/pages/nl/wat-is-een-stroomdiagram)

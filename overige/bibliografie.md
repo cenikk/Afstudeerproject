@@ -8,5 +8,6 @@
 * Jaarverslag. (2018). iCOV.[https://icov.nl/wp-content/uploads/2019/08/2\_2018jaarverslag.pdf](https://icov.nl/wp-content/uploads/2019/08/2\_2018jaarverslag.pdf)
 * Liv. (z.d.). _Diefstalcijfers - Landelijk Informatiecentrum Voertuigcriminaliteit_. [liv.nl](http://liv.nl). Geraadpleegd op 11 november 2021, van [https://liv.nl/diefstalcijfers/](https://liv.nl/diefstalcijfers/)
 * Parkd. (2020, 30 maart). Hoe werkt een scanauto en wat kan jij er tegen doen?[https://parkd.com/nl/blog/scanauto/](https://parkd.com/nl/blog/scanauto/)
+* Politie. (z.d.). _Politievoertuigen uitgelicht_. politie.nl. Geraadpleegd op 12 oktober 2021, van https://www.politie.nl/informatie/politievoertuigen-uitgelicht.html
 * RDW. (z.d.). _Dossier voertuigcriminaliteit_. Geraadpleegd op 15 november 2021, van [https://www.rdw.nl/over-rdw/actueel/dossiers/voertuigcriminaliteit](https://www.rdw.nl/over-rdw/actueel/dossiers/voertuigcriminaliteit)
 * Witwassen. (z.d.). AMLC. Geraadpleegd op 20 september 2021, van[https://www.amlc.nl/witwassen/](https://www.amlc.nl/witwassen/)
