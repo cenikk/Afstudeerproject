@@ -10,11 +10,15 @@ In plaats van te moeten concurreren met de grote thema's, zou het onderwerp voer
 
 Nederland loopt jaarlijks zo'n 22 miljard euro mis door belastingontduiking (Belastingdienst, 2019). Belastingontduiking is fraude met betrekking tot belastingen. Door een onjuist beeld van de werkelijkheid aan de autoriteiten voor te schotelen, wordt ten onrechte minder of geen belasting geheven. Dit kan op verschillende manieren plaatsvinden, bijvoorbeeld door meerdere vastgoederen aan te schaffen, of door (dure) auto's op de naam van familie en/of vrienden te kopen.
 
-Daarnaast staat autodiefstal niet op zichzelf. Criminele organisaties maken veelvuldig gebruik van gestolen voertuigen en valse, vermiste of gestolen kentekenplaten. _High impact_ criminelen hanteren daarbij vaak de zogenaamde 'duplo-methode': ze laten een onopvallende auto stelen (Renault Clio's en Meganes zijn bijvoorbeeld populair), zoeken een vergelijkbare auto in dezelfde kleur op het internet en laten de kentekenplaten ervan namaken. Op die manier kunnen ze zich verschuilen achter de identiteit van de eigenaar van de vergelijkbare auto.
+Autodiefstal staat niet op zichzelf. Criminele organisaties maken veelvuldig gebruik van gestolen voertuigen en valse, vermiste of gestolen kentekenplaten. Dat doen zij al sinds jaar en dag. High impact criminelen hanteren daarbij vaak de zogenaamde 'duplo-methode": ze laten een onopvallende auto stelen (Renault Clio's en Meganes zijn bijvoorbeeld populair), zoeken een vergelijkbare auto in dezelfde kleur op het internet en laten de kentekenplaten ervan namaken. Op die manier kunnen ze zich verschuilen achter de identiteit van de eigenaar van de vergelijkbare auto. En daarin gaan ze soms ongehoord brutaal te werk:
 
 ## Impact
 
-Autodiefstal staat niet op zichzelf. Criminele organisaties maken veelvuldig gebruik van gestolen voertuigen en valse, vermiste of gestolen kentekenplaten. Dat doen zij al sinds jaar en dag. High impact criminelen hanteren daarbij vaak de zogenaamde 'duplo-methode": ze laten een onopvallende auto stelen (Renault Clio's en Meganes zijn bijvoorbeeld populair), zoeken een vergelijkbare auto in dezelfde kleur op het internet en laten de kentekenplaten ervan namaken. Op die manier kunnen ze zich verschuilen achter de identiteit van de eigenaar van de vergelijkbare auto. En daarin gaan ze soms ongehoord brutaal te werk:
+De directe financiële kosten van gestolen auto's die nooit worden teruggevonden, bedragen gemiddeld 86,9 miljoen euro per jaar. De indirecte financiële schade is meestal voor bedrijven, en het is vrij duur. Dit omvat reputatieschade, het annuleren van een transactie en andere vormen van inkomensverlies. Er zijn echter ook de vergoedingen die een onderneming van een verzekeraar moet betalen om de risico's te beperken (zoals alarmsystemen, hekwerk, etc.).
+
+Naast de stijging van de financiële directe en indirecte schade zijn er negatieve gevolgen. Onveiligheidsgevoel bij burgers groeit, confronterende vormen van autodiefstal berokkenen slachtoffers psychisch of fysiek letsel, en slachtoffers van 'duplo-methode' kunnen het vertrouwen in hun medemens verliezen en naast de financiële schade van de auto ook andere emotionele schade oplopen dat ze verloren hebben en niet vergeven zullen worden.
+
+
 
 ▶️ Zo was de Volkswagen Transporter die werd gebruikt bij de liquidatie van Lucas Boom (op klaarlichte dag, voor de ogen van tientallen leerlingen van een basisschool in Zaandam) bijvoorbeeld voorzien van een vals kenteken, gedupliceerd van een voertuig in gebruik bij justitie.
 
@@ -30,7 +34,9 @@ Criminelen zetten de criminele video-auto in om hun misdaden voor te bereiden. G
 
 > **Valse kentekenplaten dragen niet alleen bij aan de anonimiteit van criminelen, ze vormen ook een groot probleem voor de oorspronkelijke eigenaars.**
 
+{% hint style="info" %}
 Als voertuigcriminaliteit zo'n belangrijke schakel is in het criminele proces, zou dat dan ook niet een elementaire schakel (kunnen) zijn in het opsporingsproces? Kunnen kentekens ons naar de voorkant van het probleem leiden?
+{% endhint %}
 
 ## Mijn focus
 
