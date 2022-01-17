@@ -1,6 +1,6 @@
 # Begrippenlijst
 
-_**High-impact**_** crime (HIC):** Een verzamelnaam voor delicten als woninginbraak, overvallen, straatroof en geweldsmisdrijven.&#x20;
+**High-impact crime (HIC):** Een verzamelnaam voor delicten als woninginbraak, overvallen, straatroof en geweldsmisdrijven.&#x20;
 
 
 

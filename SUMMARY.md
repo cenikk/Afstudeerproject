@@ -47,7 +47,6 @@
 * [SCENR App](het-product/scenr-app/README.md)
   * [Huidige situatie](het-product/scenr-app/huidige-situatie.md)
   * [Werking van de App](het-product/scenr-app/werking-van-de-app.md)
-  * [App features](het-product/scenr-app/app-features.md)
   * [Prototype](het-product/scenr-app/prototype.md)
   * [Microinteracties](het-product/scenr-app/microinteracties.md)
 
