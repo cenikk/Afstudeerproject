@@ -29,9 +29,14 @@ Q: Wat staat er precies in zo'n privacystatement?
 
 A: In de privacyverklaring staat beschreven hoe men omgaan met je gegevens. Ook lees je wat je rechten zijn met betrekking tot je eigen persoonsgegevens en hoe je hier gebruik van maakt. Zo kun je jouw gegevens laten wijzigingen en heb je recht op het bekijken van je gegevens.
 
-* Over welke informatie beschikt mijn stakeholders op het gebied van voertuigcriminaliteit?
-* Hoe gebruikt een agent technologie tijdens het werk?
-* Welke informatie heb ik nodig om mijn oplossing te kunnen monitoren?
-* Zijn er nog andere stakeholders die betrokken kunnen worden bij mijn oplossing?
-* Waar moeten organisaties zich aan houden?
-* Wat is de beste oplossing in de vorm van een app (welke functies moeten erin. Wat niet.)?
+Q: Helder, dank je. Ik had ook een aantal vragen over de iCOV database en soorten rapportages die worden geleverd. Wanneer moet er welke rapportage aangevraagd worden?
+
+A: Nou, zoals je eerder ooit vast ergens hebt gehoord in het bedrijf, hebben wij drie soorten rapportages: iRR, iRVI en iRT. De iRR vraag je meestal op als je naar financiële en zakelijke **relaties** van een persoon of bedrijf wil kijken. De iRVI als je een **financieel** paspoort wil van een persoon of bedrijf. Ten slotte is de iRT bedoeld om een inzicht te geven in de risico's op witwassen via vastgoed in een bepaald gebied.
+
+Q: Hoelang duurt het aanvragen van een rapportage?
+
+A: Dit verschilt per soort die aangevraagd wordt. Bij een iRR kan dat tot wel 2 weken oplopen terwijl de andere twee meestal maar een aantal dagen zijn.
+
+Q: Hoeveel rapportages worden er jaarlijks ongeveer aangevraagd?
+
+A: Vorig jaar (2021) waren dat er ongeveer 17.000.

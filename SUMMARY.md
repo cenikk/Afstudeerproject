@@ -48,6 +48,7 @@
   * [Huidige situatie](het-product/scenr-app/huidige-situatie.md)
   * [Werking van de App](het-product/scenr-app/werking-van-de-app.md)
   * [Prototype](het-product/scenr-app/prototype.md)
+  * [Testplan](het-product/scenr-app/testplan.md)
   * [Microinteracties](het-product/scenr-app/microinteracties.md)
 
 ## Afronding
