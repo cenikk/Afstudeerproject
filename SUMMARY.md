@@ -36,6 +36,7 @@
   * [MoSCoW](idee-generatie/concepting/moscow.md)
   * [Scenario's](idee-generatie/concepting/scenarios.md)
   * [Ideeën generatie](idee-generatie/concepting/ideeen-generatie.md)
+  * [Huidige situatie](idee-generatie/concepting/huidige-situatie.md)
 * [Lo-Fi](idee-generatie/lo-fi.md)
 * [Hi-Fi](idee-generatie/hi-fi.md)
 
@@ -45,11 +46,9 @@
 * [Stijlgids](het-product/stijlgids.md)
 * [Job stories](het-product/job-stories.md)
 * [SCENR App](het-product/scenr-app/README.md)
-  * [Huidige situatie](het-product/scenr-app/huidige-situatie.md)
   * [Werking van de App](het-product/scenr-app/werking-van-de-app.md)
   * [Prototype](het-product/scenr-app/prototype.md)
   * [Testplan](het-product/scenr-app/testplan.md)
-  * [Microinteracties](het-product/scenr-app/microinteracties.md)
 
 ## Afronding
 
