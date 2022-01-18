@@ -18,3 +18,5 @@ Bij Job Stories is het belangrijk dat je elke ontwerp-probleem kadert in een soo
 * **Wanneer** de iCOV Scanapp wordt gebruikt, **wil ik** kunnen achterhalen welke functionaliteiten het meest wordt gebruikt (en welke niet), **zodat ik** de app ideaal kan maken voor de gebruiker
 * **Wanneer** de politie een melding maakt in de app, **wil ik** deze doorvoeren naar het systeem, **zodat ik** de politie ten hulp kan staan.
 * **Wanneer** de iCOV Scanapp een handige middel wordt om autocriminaliteit te verminderen, **wil ik** de app internationaal ontwikkelen, **zodat ik** autocriminaliteit over de hele wereld kan verminderen.
+
+![](../.gitbook/assets/job-stories-01.jpg)

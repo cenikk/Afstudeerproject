@@ -2,8 +2,6 @@
 
 ![](<../.gitbook/assets/image (7) (1) (1).png>)
 
-## Doel
-
 Een flowchart kan worden gebruikt om de invulling van verschillende deelprocessen en processtappen inzichtelijk te maken.
 
 Flowcharts worden toegepast om:

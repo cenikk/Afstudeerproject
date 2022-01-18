@@ -49,6 +49,7 @@
   * [Werking van de App](het-product/scenr-app/werking-van-de-app.md)
   * [Prototype](het-product/scenr-app/prototype.md)
   * [Testplan](het-product/scenr-app/testplan.md)
+  * [Werking van het prototype](het-product/scenr-app/werking-van-het-prototype.md)
 
 ## Afronding
 

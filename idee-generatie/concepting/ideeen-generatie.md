@@ -9,6 +9,8 @@ Een kenteken kan op verschillende manieren doorgevoerd worden naar de SCENR app.
 
 In mijn concepten hieronder heb ik voor de camera optie gekozen. Sinds dit een nieuwe functie is bij mobiele telefoons en jarenlang op (o.a.) snelwegen wordt gebruikt, is het handig meegenomen voor ook de Politie. Nadat zij een voertuig scannen, wordt deze vervolgens doorgevoerd naar de SCENR app om daar dan meer informatie over de bestuurder te weten te komen. Ook kunnen er verschillende technieken gebruikt worden om te achterhalen of een voertuig gestolen of (kentekenplaat) gedupliceerd is.
 
+
+
 ## Concept 1 - Agent in auto
 
 Een agent in een politie auto/bus kan tijdens het rijden de opdracht geven om een kentekenplaat te scannen. Zo'n camera zou zich dan in de dashboard (dashcam) kunnen bevinden of onder de binnenspiegel. Nadat een kenteken is opgehaald, wordt hiervan de details weergeven. De agent kan vervolgens kiezen wat hij met deze data wil doen. De werking hiervan gaat ongeveer zo:
@@ -27,5 +29,5 @@ Een agent op voet heeft natuurlijk meer tijd en ruimte dan de andere soorten. Vo
 
 ![](../../.gitbook/assets/Concept-AgentOpVoet.png)
 
-## Concept 4 - Alle soorten agenten
+
 
