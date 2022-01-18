@@ -6,7 +6,7 @@ In sommige situaties en sommige agenten geven vooral voorkeur aan het onthouden 
 
 ![](<../../.gitbook/assets/image (11).png>) ![](<../../.gitbook/assets/Schermafbeelding 2022-01-16 om 19.05.17.png>)
 
-Deze stift wordt expres bij zijn dop vastgebonden zodat de agent deze makkelijker en sneller eruit kan trekken en gelijk iets kan noteren. Dat gaat ongeveer zo in zijn werking:
+Deze stift wordt expres bij zijn dop vastgebonden zodat de agent deze makkelijker en sneller eruit kan trekken en gelijk iets kan noteren. In de linker afbeelding is duidelijk ook te zien dat elke motor voorzien is van een nachtlampje (onderdeel dat naar boven uitsteekt, rechts van de hand). Dit zorgt ervoor dat een agent ook notities kan maken wanneer het donker is. Het noteren van gegevens gaat ongeveer zo:&#x20;
 
 ![](<../../.gitbook/assets/image (6) (1).png>)
 

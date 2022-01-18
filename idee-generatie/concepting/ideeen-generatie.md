@@ -17,7 +17,9 @@ Een agent in een politie auto/bus kan tijdens het rijden de opdracht geven om ee
 
 ## Concept 2 - Motoragent
 
+Bij een motoragent moeten er op een aantal extra dingen gelet worden. Eén daarvan is bijvoorbeeld dat de handelingen die hij/zij kan uitvoeren minder is dan bij een agent in een auto of op voet. Een motor gaat namelijk vooruit door een draaibeweging te maken met je rechterhand, wat ervoor zorgt dat die hand al niet gebruikt kan worden om handelingen uit te voeren voor een scan. Er moet zoveel mogelijk gehandeld worden met de linkerhand, wat ook wel de steunhand is tijdens het besturen van een motor. In het concept hieronder moet je via de scherm aangeven wat je met de scan van de kenteken wil gaan doen (details bekijken, opslaan, etc.). Voor een motoragent kan dit nogal een lastige taak zijn als hij op een hoge snelheid aan het rijden is. Daarom is het handig om onderzoek te doen op mogelijkheden die dit makkelijker kan maken. Kijk hiervoor in het kopje [Werking van de App](../../het-product/scenr-app/werking-van-de-app.md).
 
+![](../../.gitbook/assets/Concept-Motoragent.png)
 
 ## Concept 3 - Agent op voet
 

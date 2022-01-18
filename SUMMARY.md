@@ -35,8 +35,8 @@
   * [Programma van Eisen](idee-generatie/concepting/programma-van-eisen.md)
   * [MoSCoW](idee-generatie/concepting/moscow.md)
   * [Scenario's](idee-generatie/concepting/scenarios.md)
-  * [Ideeën generatie](idee-generatie/concepting/ideeen-generatie.md)
   * [Huidige situatie](idee-generatie/concepting/huidige-situatie.md)
+  * [Ideeën generatie](idee-generatie/concepting/ideeen-generatie.md)
 * [Lo-Fi](idee-generatie/lo-fi.md)
 * [Hi-Fi](idee-generatie/hi-fi.md)
 
