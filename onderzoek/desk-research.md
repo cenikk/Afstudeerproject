@@ -68,4 +68,4 @@ Zo zijn we na wat besprekingen uitgekomen op een app, die voor nu de naam SCENR 
 
 Hieronder een eerste inzicht in wat de app ongeveer moet kunnen:
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)

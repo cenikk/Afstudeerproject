@@ -46,14 +46,12 @@
 * [Stijlgids](het-product/stijlgids.md)
 * [Job stories](het-product/job-stories.md)
 * [SCENR App](het-product/scenr-app/README.md)
-  * [Werking van de App](het-product/scenr-app/werking-van-de-app.md)
   * [Prototype](het-product/scenr-app/prototype.md)
   * [Testplan](het-product/scenr-app/testplan.md)
   * [Werking van het prototype](het-product/scenr-app/werking-van-het-prototype.md)
 
 ## Afronding
 
-* [What's next?](afronding/whats-next.md)
 * [Positieve impact](afronding/positieve-impact.md)
 * [Toekomstvisie](afronding/toekomstvisie.md)
 * [Eindwoord](afronding/eindwoord.md)

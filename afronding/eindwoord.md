@@ -1,2 +1,3 @@
 # Eindwoord
 
+ik heb onwijs veel geleerd in het afgelopen jaar en had zelf nooit gedacht dat ik het tot zo een einde kon brengen. In korte tijd heb ik niet alleen veel geleerd over het project en de politie, maar heb ik ook mijn onderzoeks- en visualisatie vaardigheden verbeterd. Ik heb ook veel geleerd over het oplossen van gecompliceerde UX/informatie-problemen. Ik ben heel blij dat ik als ontwerper heb mogen bijdragen aan zo'n mooi en betekenisvol product dat helpt bij het onderzoek en de aanpak van voertuigcriminaliteit. Ik kan niet wachten tot mijn project is voltooid, zodat ik kan zien hoe mijn oplossing in de praktijk zal worden geïmplementeerd en ik ben opgewonden om te zien wat de toekomst van het project inhoudt.

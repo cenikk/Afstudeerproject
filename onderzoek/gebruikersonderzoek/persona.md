@@ -6,4 +6,4 @@ Hieronder is een persona te zien van een agent. Een persona is een archetype van
 
 ### Versie 2
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)

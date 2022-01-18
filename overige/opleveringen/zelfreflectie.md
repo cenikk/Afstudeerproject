@@ -8,7 +8,7 @@ Door het Corona virus liep mijn afstudeertraject, net als dat van vele anderen, 
 
 Ondanks de technische methoden om de communicatie in stand te houden, miste ik de fysieke interactie. Ik heb ontdekt dat wanneer ik een face-to-face co-creatiesessie onderneem, zoals een meeting met de opdrachtgever vroeg in het project, ik sneller nieuwe ideeën en inzichten krijg. De aanraking wordt veel directer en schakelen wordt veel gemakkelijker. Je zegt niet "kun je het schetsen?" en probeer het dan verbaal op te lossen, want dat is makkelijker. Uiteindelijk ontdekte ik mijn plek in de digitale wereld en kon ik nog steeds alles bereiken en werken zoals ik van tevoren had gepland en kon ik het project met een glimlach afronden.
 
-![Meeting met opdrachtgever](<../../.gitbook/assets/image (6).png>)
+![Meeting met opdrachtgever](<../../.gitbook/assets/image (6) (1).png>)
 
 
 

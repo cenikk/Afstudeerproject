@@ -2,7 +2,7 @@
 
 Bij Job Stories is het belangrijk dat je elke ontwerp-probleem kadert in een soort van taak. Hierbij richt je je eerst op de gebeurtenis of situatie (wanneer...), vervolgens op de motivatie en het doel (wil ik...), en ten slotte op het gewenste resultaat (zodat ik...).
 
-![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
 ## Politie
 
