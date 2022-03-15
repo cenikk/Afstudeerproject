@@ -24,6 +24,7 @@
   * [Interview 02](onderzoek/gebruikersonderzoek/interview-02.md)
   * [Interview 03](onderzoek/gebruikersonderzoek/interview-03.md)
   * [Interview 04](onderzoek/gebruikersonderzoek/interview-04.md)
+  * [Interview 05](onderzoek/gebruikersonderzoek/interview-05.md)
 * [Feedback](onderzoek/feedback.md)
   * [Feedback Design Brief](onderzoek/feedback/feedback-design-brief.md)
   * [Feedback Frenzy](onderzoek/feedback/feedback-frenzy.md)
@@ -57,6 +58,7 @@
 * [Positieve impact](afronding/positieve-impact.md)
 * [Toekomstvisie](afronding/toekomstvisie.md)
 * [Eindwoord](afronding/eindwoord.md)
+* [Kritische reflectie](afronding/kritische-reflectie.md)
 
 ## Overige
 
