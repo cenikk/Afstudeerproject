@@ -3,7 +3,7 @@
 ## Design Rationale
 
 * [ ] Probleem is op dit moment meer een aanleiding, probleem moet zijn een melding maken
-* [ ] Design Challenge -> 'Herkend' moet 'vermoed' worden
+* [x] Design Challenge -> 'Herkend' moet 'vermoed' worden
 * [ ] 'Stakeholdermap' moet beter verwoord worden en uitleggen waarom er voor wie is gekozen
 * [ ] 'Persona' Wat is er belangrijk aan, wat zijn de getrokken conclusies?
 * [ ] Meer conclusies trekken uit de gebruikte methodes, waar komen ze vandaan.
@@ -16,6 +16,7 @@
 
 ## Algemeen
 
+* [x] De Design Challenge is niet duidelijk: Hoe een app kan helpen, maar wat is het probleem dan precies?
 * [ ] Waarom is nou voor een motoragent gekozen?
 * [ ] Uit interview nog niet duidelijk hoe vaak een motor politie agent een auto ziet en deze wil scannen, en waarom (niet alle auto's vermoed ik?) hoe dat moment eruit ziet, welke andere werkzaamheden (zoals rijden) deze agent dan heeft, hoeveel auto's deze dagelijks scant, en hoe vaak dit dan een vervolghandeling betreft, en staat de motor agent dannaast die auto met zijn motor dit te scannen en doen, wat impliceert dat voor zijn/haar veiligheid?
 * [ ] Hoe staat het met de apps en middelen die de politie gebruikt voor parkeren? hoe werken die, en kunnen die niet ook deze taak oppakken, of begrijp ik iets niet goed?

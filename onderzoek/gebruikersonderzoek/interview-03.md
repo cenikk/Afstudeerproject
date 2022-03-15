@@ -27,7 +27,7 @@ A: Organisaties en bedrijven moeten altijd duidelijk maken wat ze met uw persoon
 
 Q: Wat staat er precies in zo'n privacystatement?
 
-A: In de privacyverklaring staat beschreven hoe men omgaan met je gegevens. Ook lees je wat je rechten zijn met betrekking tot je eigen persoonsgegevens en hoe je hier gebruik van maakt. Zo kun je jouw gegevens laten wijzigingen en heb je recht op het bekijken van je gegevens.
+A: In de privacyverklaring staat beschreven hoe men omgaat met je gegevens. Ook lees je wat je rechten zijn met betrekking tot je eigen persoonsgegevens en hoe je hier gebruik van maakt. Zo kun je jouw gegevens laten wijzigingen en heb je recht op het bekijken van je gegevens.
 
 Q: Helder, dank je. Ik had ook een aantal vragen over de iCOV database en soorten rapportages die worden geleverd. Wanneer moet er welke rapportage aangevraagd worden?
 

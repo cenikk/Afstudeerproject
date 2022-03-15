@@ -8,22 +8,31 @@ Hieronder zijn mijn design challenges te vinden:
 
 > Hoe kan ik doormiddel van een digitale oplossing, verschillende overheidsorganisaties waaronder vooral de Politie, helpen bij het bestrijden van onder autofraudeurs. Dit in de vorm van een middel die kentekens scant.
 
-🗣 Iets specifieker > Wie is de doelgroep, waar wordt het gebruikt? Context beschrijven
+🗣  Iets specifieker > Wie is de doelgroep, waar wordt het gebruikt? Context beschrijven
 
 #### Versie 2
 
 > Hoe kan ik doormiddel van een applicatie, de politie helpen bij het bestrijden van onder andere autofraudeurs. Dit als ze aan het patrouilleren zijn op straat en ( in de vorm van een middel die kentekens scant ).
 
-🗣 Niet perse bestrijden, maar meer een melding laten maken. -> Herkennen van vervalste kentekens.
+🗣  Niet perse bestrijden, maar meer een melding laten maken. -> Herkennen van vervalste kentekens.
 
 #### Versie 3
 
 > Hoe kan doormiddel van een applicatie, een (motor)agent geholpen worden bij het maken van een melding op een vervalste of gestolen auto. Dit als ze aan het patrouilleren zijn op straat of onderweg zijn.
 
-🗣 Als ze aan > Tijdens Melding kan op alle soorten gemaakt worden, meer in details. Wanneer en naar wie wordt het melding doorgevoerd?
+🗣  Als ze aan > Tijdens Melding kan op alle soorten gemaakt worden, meer in details. Wanneer en naar wie wordt het melding doorgevoerd?
 
 #### Versie 4
 
 > Hoe kan doormiddel van een applicatie, een (motor)agent geholpen worden bij het aanvragen van een gegevens-rapportage op een bestuurder wanneer een voertuig herkend wordt als gestolen of gefraudeerd. Dit tijdens het patrouilleren op straat of onderweg.
 
 (iCOV beschikt zelf over een database van gegevens van de bestuurder die doorgevoerd wordt naar de applicatie.)
+
+🗣  - Hoe een app kan helpen, maar wat is het probleem dan precies?\
+&#x20;\- Niet gelijk per sé bij herkennen maar meer als vermoedens.
+
+
+
+**Versie 5**
+
+> Hoe kan een digitale tool (motor)agenten helpen bij het aanpakken van voertuigcriminaliteit. Dit door een applicatie waarbij gegevens-rapportage van een bestuurder aangevraagd kan worden wanneer een voertuig als gestolen of gefraudeerd wordt vermoed. Zowel onderweg als tijdens het patrouilleren op straat.
