@@ -13,6 +13,8 @@ De politie die op straat surveilleert zou je kunnen opdelen in verschillende soo
 * Agent op fiets / lopend
 * Overige agenten
 
+### Waarom motoragent?
+
 Mijn focus ligt vooral bij de motoragent. Een belangrijke reden daarvoor is omdat de toegankelijkheid bij hen beperkt is. Hierbij moet ik met name letten op meerdere aspecten zoals; hoe snel kan de agent een scan uitvoeren? Hoe kan hij/zij gebruik maken van de app terwijl er handschoenen gedragen worden? Kan de app ook onderweg gebruikt worden?
 
 Als ik uiteindelijk de ideale app voor de motoragent kan realiseren, valt de rest van de categorieën ook makkelijk hieronder. Bij hen moet er dan nog alleen gekeken worden welke functionaliteiten belangrijker zijn en welke niet.

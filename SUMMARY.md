@@ -12,7 +12,10 @@
 
 * [Het probleem](onderzoek/het-probleem.md)
 * [Design Challenge](onderzoek/design-challenge.md)
-* [Desk research](onderzoek/desk-research.md)
+* [Desk research](onderzoek/desk-research/README.md)
+  * [Onderzoeksvragen](onderzoek/desk-research/onderzoeksvragen.md)
+  * [Benchmark](onderzoek/desk-research/benchmark.md)
+  * [Productvisie](onderzoek/desk-research/productvisie.md)
 * [Stakeholders](onderzoek/stakeholders.md)
   * [Stakeholdermap](onderzoek/stakeholders/stakeholdermap.md)
   * [Belangrijkste stakeholders](onderzoek/stakeholders/belangrijkste-stakeholders.md)
