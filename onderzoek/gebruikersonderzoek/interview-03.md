@@ -4,6 +4,7 @@
 
 **Naam geïnterviewde:** Tom Dorhout \
 **Beroep:** iCOV IT-beheerder \
+**Datum:** 21 september 2021\
 **Methode:** Online (Cisco Webex)
 
 ## Proces

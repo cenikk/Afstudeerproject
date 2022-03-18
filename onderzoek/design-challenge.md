@@ -29,8 +29,7 @@ Hieronder zijn mijn design challenges te vinden:
 (iCOV beschikt zelf over een database van gegevens van de bestuurder die doorgevoerd wordt naar de applicatie.)
 
 🗣  - Hoe een app kan helpen, maar wat is het probleem dan precies?\
-&#x20;\- Niet gelijk per sé bij herkennen maar meer als vermoedens.
-
+&#x20;\- Niet gelijk per sé bij herkennen maar meer als vermoedens.\
 
 
 **Versie 5**

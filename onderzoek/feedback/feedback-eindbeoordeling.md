@@ -2,10 +2,10 @@
 
 ## Design Rationale
 
-* [x] Probleem is op dit moment meer een aanleiding, probleem moet zijn een melding maken
+* [ ] Probleem is op dit moment meer een aanleiding, probleem moet zijn een melding maken
 * [x] Design Challenge -> 'Herkend' moet 'vermoed' worden
-* [x] 'Stakeholdermap' moet beter verwoord worden -> Focus group = Belangrijkste stakeholders
-* [x] 'Persona' Wat is er belangrijk aan, wat zijn de getrokken conclusies?
+* [ ] 'Stakeholdermap' moet beter verwoord worden en uitleggen waarom er voor wie is gekozen
+* [ ] 'Persona' Wat is er belangrijk aan, wat zijn de getrokken conclusies?
 * [ ] Meer conclusies trekken uit de gebruikte methodes, waar komen ze vandaan.
 * [ ] Lo-Fi concepten ook beschrijven, waarom heb ik de keuzes gemaakt.
 * [ ] Fases mogen weggelaten worden

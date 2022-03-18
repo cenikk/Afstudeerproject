@@ -10,6 +10,7 @@ Na de ontvangen feedback en ontstane vragen heb ik besloten nog een interview te
 
 **Naam geïnterviewde:** George Rasker \
 **Beroep:** Programmadirecteur aanpak ondermijning \
+**Datum:** 17 februari 2022\
 **Methode:** Online (Cisco Webex)
 
 ## Proces

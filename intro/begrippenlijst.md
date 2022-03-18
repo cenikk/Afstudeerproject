@@ -21,3 +21,7 @@
 
 
 **Toezichthouder:** Een toezichthouder is een door de overheid aangesteld, onafhankelijk en onpartijdig instituut dat toeziet op naleving van wet- en regelgeving door organisaties.
+
+
+
+**AVG:** De Algemene verordening gegevensbescherming (**AVG**) geeft aan dat een persoonsgegeven alle informatie is over een geïdentificeerde of identificeerbare natuurlijke persoon. Dit betekent dat informatie ofwel direct over iemand gaat, ofwel naar deze persoon te herleiden is.

@@ -4,6 +4,7 @@
 
 **Naam geïnterviewde:** George Rasker \
 **Beroep:** Programmadirecteur aanpak ondermijning \
+**Datum:** 13 september 2021\
 **Methode:** Online (Cisco Webex)
 
 ## Proces

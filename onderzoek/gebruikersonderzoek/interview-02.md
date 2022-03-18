@@ -4,6 +4,7 @@
 
 **Naam geïnterviewde:** Lennert van Waal \
 **Beroep:** Designer / Developer (IOS) \
+**Datum:** 16 september 2021\
 **Methode:** Online (Cisco Webex)
 
 ## Proces
