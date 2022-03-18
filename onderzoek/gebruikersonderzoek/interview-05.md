@@ -20,6 +20,6 @@ __Geïnterviewde **(A)**: George Rasker
 
 ❗ Een aantal vragen en antwoorden zijn verkort naar een duidelijkere uitleg.
 
-Q: Hey George, daar zijn we weer... sinds onze laatste meeting zijn er toch nog wat vragen waar, vooral ik, nog antwoorden op zoek.&#x20;
+Q: Hey George, daar zijn we weer... sinds onze laatste meeting zijn er toch nog wat vragen waar, vooral ik, nog antwoorden op zoek. Ook voor mijn docent(en) van de opleiding zijn nog een aantal punten onduidelijk. Hopelijk helpt deze interview met het ophelderen van deze punten.
 
 A: Volkomen begrijpelijk, toen ik dit project overhandigde wist ik ook wel dat het geen makkelijke opdracht zou worden. Of we nou uiteindelijk met een ideale oplossing komen of niet, het realiseren van deze oplossing is weer een vak apart. Er komen heel wat juridische dingen bij kijken&#x20;

@@ -12,7 +12,7 @@
 
 * [Het probleem](onderzoek/het-probleem.md)
 * [Design Challenge](onderzoek/design-challenge.md)
-* [Desk research](onderzoek/desk-research/README.md)
+* [Desk research](onderzoek/desk-research.md)
   * [Onderzoeksvragen](onderzoek/desk-research/onderzoeksvragen.md)
   * [Benchmark](onderzoek/desk-research/benchmark.md)
   * [Productvisie](onderzoek/desk-research/productvisie.md)

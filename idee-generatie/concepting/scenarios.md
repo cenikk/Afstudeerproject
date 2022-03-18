@@ -14,8 +14,10 @@ Voor een agent op voet is makkelijk om een kentekenplaat te scannen en hiervan d
 
 ![](../../.gitbook/assets/Agent-onderweg.png)
 
-Voor een agent op de motor is het scannen van een voertuig al een stuk lastiger. Omdat zo'n motor een snelheid van zo'n 200 km/h kan bereiken, is het herkennen van een kenteken al een stuk lastiger als je onderweg bent. Bovendien&#x20;
+Voor een agent op de motor is het scannen van een voertuig al een stuk lastiger. Omdat zo'n motor een snelheid van zo'n 200 km/h kan bereiken, is het herkennen van een kenteken al een stuk lastiger als je onderweg bent. Bovendien ...
 
 ## Agent in auto
 
 ![](<../../.gitbook/assets/image (8).png>)
+
+...
