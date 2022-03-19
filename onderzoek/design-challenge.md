@@ -34,4 +34,4 @@ Hieronder zijn mijn design challenges te vinden:
 
 **Versie 5**
 
-> Hoe kan een digitale tool (motor)agenten helpen bij het aanpakken van voertuigcriminaliteit. Dit door een applicatie waarbij gegevens-rapportage van een bestuurder aangevraagd kan worden wanneer een voertuig als gestolen of gefraudeerd wordt vermoed. Zowel onderweg als tijdens het patrouilleren op straat.
+> Hoe kan een digitaal interactief product (motor)agenten ondersteuning bieden de aanpak van voertuigcriminaliteit onderweg op zo'n manier waarbij de gegevens van een bestuurder aangevraagd kan worden?
