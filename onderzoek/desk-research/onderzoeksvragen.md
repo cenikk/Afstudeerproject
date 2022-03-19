@@ -2,7 +2,7 @@
 
 ## Onderzoeksvragen
 
-1.  **Met welke digitale oplossing kan ik de overheidsorganisaties helpen?**
+1.  **Met welke digitale oplossing kan ik de overheidsorganisaties ondersteunen?**
 
     1. Op welke device(s) moet de oplossing gemaakt worden.
     2. Behoort de oplossing tot de behoeftes van de potentiële gebruikers?
