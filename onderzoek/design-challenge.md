@@ -34,4 +34,4 @@ Hieronder zijn mijn design challenges te vinden:
 
 **Versie 5**
 
-> Hoe kan een digitaal interactief product (motor)agenten ondersteuning bieden de aanpak van voertuigcriminaliteit onderweg op zo'n manier waarbij de gegevens van een bestuurder aangevraagd kan worden?
+> Hoe kan een digitaal interactief product (motor)agenten ondersteuning bieden tijdens de aanpak van voertuigcriminaliteit zowel onderweg als tijdens het patrouilleren op zo'n manier waarbij de gegevens van een bestuurder aangevraagd kan worden?
