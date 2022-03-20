@@ -16,4 +16,21 @@ Q: Hi Menno, ik ben Kaan, ... . Voor mijn afstudeerproject vanuit school hou ik 
 
 A: Hey Kaan ja dat kan, wat wil je precies over het proces weten?
 
+Q: Hoe wordt er bepaald welke auto's gescanned moeten worden?
+
+A:
+
+Q: Wat betreft het dagelijkse aantal?
+
+A:
+
+Q: Op wat voor manier gebeurt dit? Kun je het proces beschrijven?
+
+A:
+
+Q: Met welke andere werkzaamheden houden jullie je nog bezig tijdens het proces?
+
+A:
+
 Q:
+
