@@ -6,7 +6,7 @@ Voordat een agent in de SCENR App terecht komt, bepaald&#x20;
 
 ![](<../../.gitbook/assets/image (7) (1).png>)
 
-Voor een agent op voet is makkelijk om een kentekenplaat te scannen en hiervan data op te vragen. Hij / zij kan simpelweg zijn mobiel erbij pakken, een kenteken scannen en deze doorvoeren naar de SCENR app.&#x20;
+Voor een agent op voet is makkelijk om een kentekenplaat te scannen en hiervan data op te vragen. Hij / zij kan simpelweg zijn mobiel erbij pakken, een kenteken scannen en deze doorvoeren naar de SCENR app. Hoe dit ongeveer in zijn werking gaat, heb ik een concept op gemaakt: [Concept 1 - Agent op voet](ideeen-generatie.md#concept-3-agent-op-voet)
 
 ## Agent op motor
 
