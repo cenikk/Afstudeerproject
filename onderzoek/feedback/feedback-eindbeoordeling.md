@@ -19,7 +19,7 @@
 ## Design Rationale
 
 * [x] Probleem is op dit moment meer een aanleiding, probleem moet zijn een melding maken
-* [x] Design Challenge -> 'Herkend' moet 'vermoed' worden
+* [x] Design Challenge -> Probleem staat niet vermeld
 * [x] 'Stakeholdermap' moet beter verwoord worden -> Focus group = Belangrijkste stakeholders
 * [x] 'Persona' Wat is er belangrijk aan, wat zijn de getrokken conclusies?
 * [ ] Meer conclusies trekken uit de gebruikte methodes, waar komen ze vandaan.

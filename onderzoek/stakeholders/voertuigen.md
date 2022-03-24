@@ -28,4 +28,4 @@ Deze motorfiets gebruikt de politie voornamelijk op snelwegen en wegen buiten de
 
 ![](https://www.politie.nl/binaries/w800h450/content/gallery/politie/onderwerpen/p/politievoertuigen/politiemotor.jpg)
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)

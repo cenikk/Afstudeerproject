@@ -17,7 +17,7 @@ Omdat ik ervoor heb gekozen om de app voor motoragenten te realiseren, wilde ik 
 
 ## Hoe controleert de politie kentekenplaten?
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Dit wordt bereikt door het gebruik van een camera die de contouren van een kentekenplaat scant.
 
