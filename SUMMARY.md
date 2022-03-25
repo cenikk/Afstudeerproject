@@ -41,6 +41,7 @@
 * [Concepting](idee-generatie/concepting.md)
   * [Programma van Eisen](idee-generatie/concepting/programma-van-eisen.md)
   * [MoSCoW](idee-generatie/concepting/moscow.md)
+  * [Job stories](idee-generatie/concepting/job-stories.md)
   * [Scenario's](idee-generatie/concepting/scenarios.md)
   * [Ideeën generatie](idee-generatie/concepting/ideeen-generatie.md)
 * [Lo-Fi](idee-generatie/lo-fi.md)
@@ -50,7 +51,6 @@
 
 * [Sitemap](het-product/sitemap.md)
 * [Stijlgids](het-product/stijlgids.md)
-* [Job stories](het-product/job-stories.md)
 * [SCENR App](het-product/scenr-app/README.md)
   * [Prototype](het-product/scenr-app/prototype.md)
   * [Testplan](het-product/scenr-app/testplan.md)

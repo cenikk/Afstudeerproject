@@ -2,7 +2,7 @@
 
 Bij Job Stories is het belangrijk dat je elke ontwerp-probleem kadert in een soort van taak. Hierbij richt je je eerst op de gebeurtenis of situatie (wanneer...), vervolgens op de motivatie en het doel (wil ik...), en ten slotte op het gewenste resultaat (zodat ik...).
 
-![](<../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
 ## Politie
 
@@ -19,4 +19,4 @@ Bij Job Stories is het belangrijk dat je elke ontwerp-probleem kadert in een soo
 * **Wanneer** de politie een melding maakt in de app, **wil ik** deze doorvoeren naar het systeem, **zodat ik** de politie ten hulp kan staan.
 * **Wanneer** de iCOV Scanapp een handige middel wordt om autocriminaliteit te verminderen, **wil ik** de app internationaal ontwikkelen, **zodat ik** autocriminaliteit over de hele wereld kan verminderen.
 
-![](../.gitbook/assets/job-stories-01.jpg)
+![](../../.gitbook/assets/job-stories-01.jpg)
