@@ -7,7 +7,7 @@
 * [x] Waarom is nou voor een motoragent gekozen? \
   [Keuze-uitleg motoragent](../stakeholders/belangrijkste-stakeholders.md#waarom-motoragent)
 * [x] Uit interview nog niet duidelijk hoe vaak een motor politie agent een auto ziet en deze wil scannen, en waarom (niet alle auto's vermoed ik?) hoe dat moment eruit ziet, welke andere werkzaamheden (zoals rijden) deze agent dan heeft, hoeveel auto's deze dagelijks scant, en hoe vaak dit dan een vervolghandeling betreft, en staat de motor agent dan naast die auto met zijn motor dit te scannen en doen, wat impliceert dat voor zijn/haar veiligheid?&#x20;
-  * [x] Hoe dat moment eruit ziet? -> [Agent op motor scenario](../../idee-generatie/concepting/scenarios.md#agent-op-motor)
+  * [x] Hoe dat moment eruit ziet? -> [Agent op motor scenario](../desk-research/scenarios.md#agent-op-motor)
   * [ ] Hoe vaak een scan uitvoeren en waarom? ->&#x20;
   * [x] Welke andere werkzaamheden een agent heeft -> [Werkzaamheden agent](../desk-research/huidige-situatie.md#werkzaamheden-agent)
 * [x] Hoe staat het met de apps en middelen die de politie gebruikt voor parkeren? hoe werken die, en kunnen die niet ook deze taak oppakken, of begrijp ik iets niet goed? \
@@ -22,8 +22,8 @@
 * [x] Design Challenge -> Probleem staat niet vermeld
 * [x] 'Stakeholdermap' moet beter verwoord worden -> Focus group = Belangrijkste stakeholders
 * [x] 'Persona' Wat is er belangrijk aan, wat zijn de getrokken conclusies?
-* [ ] Meer conclusies trekken uit de gebruikte methodes, waar komen ze vandaan.
-* [ ] Lo-Fi concepten ook beschrijven, waarom heb ik de keuzes gemaakt.
+* [x] Meer conclusies trekken uit de gebruikte methodes, waar komen ze vandaan.
 * [x] Fases mogen weggelaten worden
-* [ ] 'Sitemap' ook weer de vraag waarom en wat haal je eruit.
-* [ ] Hi-Fi beter uitleggen met annotaties
+* [x] 'Sitemap' ook weer de vraag waarom en wat haal je eruit.
+* [x] Hi-Fi beter uitleggen met annotaties
+* [x] Er is geen verhaal binnen je DR, nu lijkt het alsof alles erin is geplakt en meer niet. -> Kloppend verhaal maken
