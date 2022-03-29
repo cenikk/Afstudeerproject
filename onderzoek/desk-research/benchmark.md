@@ -1,9 +1,5 @@
 # Benchmark
 
-## Finnik iKenteken
-
-
-
 ## Scanauto
 
 ![Scanauto - Afbeelding van https://www.rtlnieuws.nl/editienl/artikel/5182861/betaald-parkeren-app-parkeerwacht-verklikker](<../../.gitbook/assets/image (12).png>)
@@ -35,9 +31,3 @@ Algoritmen worden gebruikt:
 * om de individuele karakters van de kentekenplaat te identificeren.
 
 Als een kentekenplaat is geïdentificeerd en verwerkt, dan worden de kentekengegevens voor verdere verwerking naar het Nationaal Parkeerregister (NPR) gestuurd. Een algoritme van NPR controleert vervolgens de geldigheid van parkeerrechten voor het kenteken op een bepaalde tijd en locatie. Een positieve uitslag betekent dat de auto geldige parkeerrechten heeft. In dat geval worden de scangegevens van de kentekenplaat binnen 48 uur verwijderd. Bij een negatieve uitslag worden de beelden gecontroleerd door een medewerker van EGIS Parking Services B.V., die in opdracht van de gemeente Amsterdam de parkeercontrole uitvoert.
-
-## Kenteken Scanner: RDW info
-
-
-
-## Kenteken Cam

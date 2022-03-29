@@ -17,7 +17,7 @@ Omdat ik ervoor heb gekozen om de app voor motoragenten te realiseren, wilde ik 
 
 ## Hoe controleert de politie kentekenplaten?
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 Dit wordt bereikt door het gebruik van een camera die de contouren van een kentekenplaat scant.
 
@@ -36,10 +36,8 @@ Een aantal van deze punten zijn uit mijn [interview met de opdrachtgever](../geb
 {% endhint %}
 
 * Een ANPR-camera is best wel groot en kan het momenteel dus alleen gebruikt worden langs wegens en in een politieauto. Voor een motoragent is het dus best lastig om een kentekenplaat vast te leggen.&#x20;
-* Een kenteken dat wordt vastgelegd met de ANPR-camera is pas 'nuttig' als deze voorkomt in de lijst met kentekenplaten van mensen die gezocht worden door justitie. En dit is dus in bepaalde situaties, zoals als er een lopende onderzoek op de voertuig is of als er te veel verkeersboetes openstaan. Verder kan de politie niet veel met een gescande kenteken, terwijl dat wel zou moeten. Hoe zit het namelijk met belastingontduikers, witwassers en veel andere situaties waar voertuigen een grote rol in kunnen spelen. Wanneer een verbinding gemaakt wordt met de iCOV-database zouden ook een deel van deze problemen aangepakt kunnen worden.
-* Momenteel is er geen&#x20;
-
-Ten eerste is een ANPR camera best wel groot en kan het momenteel dus alleen gebruikt worden langs wegens en in een politieauto. Voor een motoragent is het dus best lastig om een kentekenplaat te achterhalen.&#x20;
+* Een kenteken dat wordt vastgelegd met de ANPR-camera is pas 'nuttig' als deze voorkomt in de lijst met kentekenplaten van mensen die gezocht worden door justitie. In andere gevallen kan de politie niet veel met een gescande voertuig die niet in deze lijst voorkomt terwijl dat wel zou moeten. Wanneer een verbinding gemaakt wordt met de iCOV-database bij een scan zou de politie veel meer gegevens kunnen achterhalen en andere problemen (zoals diefstal, belastingontduiking etc.) kunnen tackelen.
+* Agenten op voet en motors beschikken niet over een interface wanneer ze een kenteken scannen of noteren. Dit zou hun werk veel makkelijker maken.
 
 ### Kenteken noteren voor een motoragent
 
@@ -52,8 +50,3 @@ Deze stift wordt expres bij zijn dop vastgebonden zodat de agent deze makkelijke
 ![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 Je kan je al voorstellen dat bij een hoge snelheid dit al heel wat lastiger wordt en ook best gevaarlijk. Daarom is het ideaal om hier een slimmere en makkelijkere oplossing op te vinden. Bijvoorbeeld door een manier om automatisch (of wanneer hierom wordt gevraagd) kentekens vast te leggen via een camera dat aan een scooter is ingebouwd. Dat bespaard de agent heel wat moeite en zorgt ook voor efficiënter werken.
-
-
-
-
-

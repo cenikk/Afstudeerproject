@@ -18,4 +18,4 @@ Voor een agent op de motor is het scannen van een voertuig al een stuk lastiger.
 
 ![](<../../.gitbook/assets/image (8).png>)
 
-...
+Agenten in auto's kunnen indien nodig een [ANPR-camera](huidige-situatie.md#subject-template-title) meenemen in het voertuig. Hiermee kunnen ze andere voertuigen onderweg scannen en doorvoeren naar het scherm in de auto. Helaas zijn de opties binnen dit scherm beperkt, vandaar dat ik ook op deze scenario een concept heb bedacht: [Concept 3 - Agent in auto](../../idee-generatie/concepting/ideeen-generatie.md#concept-3-agent-in-auto).
